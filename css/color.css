@@ -39,8 +39,8 @@
   color: white;
   background: linear-gradient(
     135deg, 
-    var(--color-3) 0%, 
-    var(--color-2) 100%
+    var(--color-2) 0%, 
+    var(--color-1) 100%
   );
 }
 
